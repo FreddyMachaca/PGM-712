@@ -1,0 +1,5 @@
+El control automatico se lo activa con el numero
+Cero(0)
+Despues de activar el modo atuomatico se lo podra
+desactivar presionando el numero(1) y tendra el 
+control total de manipular el personaje(Avion)
